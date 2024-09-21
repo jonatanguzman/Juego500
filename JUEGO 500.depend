@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1689079070 source:c:\users\jonat\desktop\juego 500\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones.h"
+
+1689078364 c:\users\jonat\desktop\juego 500\funciones.h
+
+1689079070 source:d:\documentos\utn\primer cuatrimestre\juego 500\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones.h"
+
+1689078364 d:\documentos\utn\primer cuatrimestre\juego 500\funciones.h
+
+1689079070 source:d:\documentos\utn\1° cuatrimestre\juego 500\main.cpp
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Funciones.h"
+
+1689078364 d:\documentos\utn\1° cuatrimestre\juego 500\funciones.h
+
